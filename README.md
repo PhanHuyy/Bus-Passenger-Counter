@@ -12,6 +12,6 @@ pip install requirements.txt
 
 ## Usage
 
-Run the UI.py to launch the interface. 
+Run the MainUI.py to launch the interface. 
 
 You can select video resolution and choose between Recorded Footage or Real-time Camera
